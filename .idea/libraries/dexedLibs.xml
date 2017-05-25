@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AnimalSound Source Code/bin/dexedLibs/android-support-v4-2e3e5adebd412f1c4603a370b3f28f3a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AnimalSound Source Code/bin/dexedLibs/android-support-v4-93533020894c18af5b391f2a07532f83.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AnimalSound Source Code/bin/dexedLibs/google-play-services_lib-008ba0b49bc2c8d3c4d5af3b2ff460c5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AnimalSound Source Code/bin/dexedLibs/google-play-services_lib-ad71f1d14088b1d0e9e5f4794379a5c9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AnimalSound Source Code/bin/dexedLibs/annotations-d9f189d8f039611e551d49a4ebc06244.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AnimalSound Source Code/bin/dexedLibs/google-play-services-889b0ec6df3449ddc656996231cb8aeb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AnimalSound Source Code/bin/dexedLibs/google-play-services-3094e98956a0ab20795d12e4a12bccc0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
